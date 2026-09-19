@@ -17,7 +17,7 @@ final class Menu {
             __('AI Services Hub', 'proseo-ai-services-hub'),
             Capabilities::ADMIN_CAP,
             'proseo-ai-services-hub',
-            [DashboardPage::class, 'render'],
+            [ElectricalEditorPage::class, 'render'],
             'dashicons-admin-generic',
             58
         );

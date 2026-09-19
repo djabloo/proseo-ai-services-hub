@@ -12,3 +12,6 @@ composer install
 composer lint
 composer phpcs
 ```
+
+## Documentazione
+- [Piano MVP disegno elettrico](docs/electrical-cad-mvp-plan.md)
